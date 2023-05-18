@@ -1,0 +1,331 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    margin:0px;
+    
+}
+
+.row1{
+    border:black solid 1px;
+    height: 60px;
+    width:1829px;
+    background-color:black;
+}
+.row2{
+    border:black solid 1px;
+    height: 39px;
+    width:1829px;
+    font-size:14px;
+    background-color:black;
+}
+.row3{
+    border:black 1px solid;
+    height:300px;
+    width:1500px;
+    margin: 5px auto;
+ 
+}
+.img{
+    width:100%;
+    height:100%;
+    
+}
+
+.row4{
+    border:black 1px solid;
+    height:358.031px;
+    width:1500px;
+    margin: 5px auto;
+ 
+}
+ 
+.row7{
+    border:black solid 1px;
+    height:500px;
+    background-color:black;
+ 
+}
+.rowtop{
+    border:solid 1px red;
+    height:50%;
+    line-height:20px;
+    font-size:100%;
+    color:white;
+
+ 
+    
+}
+.rowtop1{
+    border:solid 1px red;
+    height:50%;
+    line-height:20px;
+    font-size:80%;
+    color:white;
+
+ 
+    
+}
+.row6{
+    border:black 1px solid;
+    height:300px;
+    width:  1500px;
+    padding:0px 4.200px 0px 20px;
+   
+}
+.row0{
+    border :blue solid 1px;
+    width:100%;
+    height:40%;
+ 
+
+}
+.row9{
+    border:solid red 1px;
+    width:1500px;
+    height:320px;
+    margin: 0px auto;
+}
+.row8{
+    border:solid red 1px;
+    width:1500px;
+    height:380px;
+    margin:0px 148.500px;
+}
+.col1{
+    border:red solid 1px;
+    height: 100%;
+    width:  25%;
+    float:left;
+    padding:0px 0px 0px 10px;
+   
+}
+ 
+.col2{
+    border:solid red 1px;
+    width:113px;
+    margin:0px 0px 0px 15px;
+    height:100%;
+    float:left;
+}
+.col3{
+    border:red solid 1px;
+    width:90.641px;
+    height:100%;
+    float:left; 
+}
+.col25{
+    border:solid red 1px;
+    height:100%;
+    float:left;
+    width:30%;
+}
+.col025{
+    width:70%;
+}
+.col4{
+    border:solid red 1px;
+    width:1172.5px;
+    margin:0px 18px;
+    height:100%;
+    float:left; 
+}
+.col24{
+
+    border:solid 1px red;
+    height:100%;
+    width:50%;
+    float:left;
+    
+}
+.col5{
+    border:solid 1px red;
+    width:73.38px;
+    height: 100%;
+    margin:0px 0px 0px 1px;
+     float:left; 
+}
+.col6{
+    border:solid 1px red;
+    width:131.53px;
+    height:100%;
+    margin:0px 0px 0px 6px;
+     float:left; 
+}
+.col7{
+    border:solid red 1px;
+    width:76.95px;
+    height: 100%;
+    margin:0px 0px 0px 6px;
+     float:left; 
+}
+.col8{
+    border:solid 1px red;
+    width:81px;
+    height:100%;
+    margin:0px 14px 0px 6px;
+    float:right;
+    color:white;
+    font-size:100%;
+  
+}
+.col23{
+    border:solid red 1px;
+    height:100%;
+    float:left;
+    padding-top:40px ;
+    
+}
+.cart{
+    border:solid 1px red;
+    width:50%;
+    height:100%;
+    float:left;
+}
+.col9{
+    border:solid 1px red;
+    width: 58.42px;
+    height: 100%;
+    margin: 0px 3px 0px 15px;
+    padding:8px 9px;
+    float:left;
+    color:white;
+}
+.col10{
+    border:solid red 1px;
+    width:108.81px;
+    height:100%;
+    margin:0px 0px 6px;
+    float:left;
+    padding:8px 12px;
+    color:white;
+}
+.col11{
+    border:solid 1px red;
+    width:134.34px;
+    height:100%;
+    margin:top;
+    padding:8px 12px;
+    float:left;
+    padding:8px 12px;
+    color:white;
+}
+.col12{
+    border:solid 1px red;
+    width:75.8px;
+    height:100%;
+    padding:8px 12px;
+    float:left;
+    margin:top;
+    color:white;
+}
+.col13{
+    border:solid 1px red;
+    width:87px;
+    height:100%;
+    margin:top;
+    padding:8px 12px;
+    float:left;
+    color:white;
+}
+.col14{
+    border:solid 1px red;
+    width:47.38px;
+    height:100%;
+    color:white;   
+    padding:8px 12px;
+    float:left;
+}
+.col15{
+    border:solid 1px red;
+    width:176.92px;
+    height: 100%;
+    margin:0px 14px 0px 2px;
+    float:right;
+    color:white;
+    padding: 8px ;
+    font-size:100%;
+}
+.col16{
+    border:solid red 1px;
+    width:1000px;
+    height:500px;
+    margin:0px 416.500px;
+}
+.col17{
+    border:blue solid 1px;
+    width:136.06px;
+    height:100%;
+    float:left;
+}
+.col18{
+    border:solid red 1px;
+    width:100px;
+    height:100%;
+    float:left;
+ 
+}
+.col19{
+    border:solid blue 1px;
+    width: 184.31px;
+    height: 100%;
+    float:left;
+    
+}
+.col20{
+    border:solid 1px blue;
+    width:222.22px;
+    height: 100%;
+    float:left;
+}
+.col21{
+    border:solid blue 1px;
+    width:155px;
+    height: 100%;
+    float:left;
+}
+.row07{
+    border:black solid 1px;
+    height:20px;
+    color:white;
+    background-color:darkblue;
+    text-align:center;
+    line-height:20px;
+    font-size:100%;
+    padding:25px 0px;
+    
+}
+.rowtop{
+    border:solid red 1px;
+    width:100%;
+    height:50%;
+    font-size: 70%;
+    
+}
+.colthree{
+    border:solid 1px red;
+    height:100%;
+    width:105px;  
+    float:left;
+    padding:15px 0px 0px 0px;
+    background-color:grey;
+    
+}
+.colfour{
+    border:solid 1px red;
+    width:45px;
+    color:black;
+    float:right;
+    background-color:yellow;
+    height:100%;
+    padding:5px;
+    
+}
+ .colfifth{
+    border:solid 1px red;
+    height:100%;
+    width:1020px;  
+    float:left;
+    padding:auto;
+    background-color:white;
+ 
